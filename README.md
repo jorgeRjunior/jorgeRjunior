@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgerjunior&label=Profile%20views&color=0e75b6&style=flat" alt="jorgerjunior" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgerjunior" alt="jorgerjunior" /></a> </p>
-
 - 🔭 I’m currently working on **Java, Python, JavaScript, ReactJS**
 
 - 🌱 I’m currently learning **ReactJS, ReactNative**
