@@ -5,10 +5,11 @@
 
 ### <div align="center">Software Engineer | Java - ReactJs | Full Stack
 
-Atuo na área da Tecnologia da Informação, ocupando a função de Desenvolvedor Full Stack, com conhecimentos em Java, JavaScript (React, Angular, Vue), Python, mas tenho interesse em aprender novas linguagens.
+I work in the Information Technology field, holding the position of Full Stack Developer, with knowledge in Java, JavaScript (React, Angular, Vue), Python, but I am interested in learning new languages.
 
-Desenvolvimento e modelagem de dados em bancos de dados Microsoft SQL, PostgreSQL, Oracle, MySQL.</div>  
-  
+Development and data modeling in Microsoft SQL, PostgreSQL, Oracle, MySQL databases.</div>  
+
+<a href="https://portifolio-tan-tau.vercel.app/" target="_blank"> Visit my portfolio website built in React.</a>
 
 <br/>  
 
