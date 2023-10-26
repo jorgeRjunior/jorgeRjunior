@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png" align="center" style="width: 100%" />
+<img src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">Software Engineer | Java - ReactJs | Full Stack
 
-I work in the Information Technology field, holding the position of Full Stack Developer, with knowledge in Java, JavaScript (React, Angular, Vue), Python, but I am interested in learning new languages.
+I work in the Information Technology field, holding the position of Full Stack Developer, with knowledge in Java, JavaScript (ReactJS), Python, but I am interested in learning new languages.
 
 Development and data modeling in Microsoft SQL, PostgreSQL, Oracle, MySQL databases.</div>  
 
@@ -64,6 +64,15 @@ Development and data modeling in Microsoft SQL, PostgreSQL, Oracle, MySQL databa
 
 <br/>  
 
+## SoftSkills and Hobby:  
+
+Solid communication skills can be relied upon, with ideas being expressed clearly and attentively listened to by others. Proficiency in teamwork is evidenced by harmonious collaboration with colleagues to achieve common goals. Additionally, the ability to resolve conflicts assists me in approaching challenges constructively, promoting a healthy work environment. Flexibility is enabled, allowing for easy adaptation to changes and embracing new opportunities, contributing to the team's success.
+<br/><br/>
+I enjoy spending time with my family, taking walks with my pets, studying and programming, playing video games with my friends, and playing soccer.
+
+
+ 
+<table><tr><td valign="top" width="33%">
 
 ## Connect with me  
 <div align="center">
